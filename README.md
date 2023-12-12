@@ -1,3 +1,2 @@
 # MD-CapstoneWasteWizard
 
-//komentar
